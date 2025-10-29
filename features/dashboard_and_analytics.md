@@ -1,7 +1,9 @@
 # Dashboard and Analytics
 
 The **VisionX Incident Dashboard** provides a comprehensive, real-time overview of incidents within a facility.
-
+---
+![](../assets/Picture16.png)
+---
 ## Example KPIs and Analytics Tracked
 
 1. **Real-Time Incident Monitoring**  

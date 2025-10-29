@@ -6,6 +6,9 @@ Models can be deployed directly to selected devices, with support for assigning 
 
 This ensures optimized performance, scalability, and centralized control across all connected devices.
 
+---
+![](../assets/Picture17.png)
+---
 ## Key Features
 - Add, delete, and organize devices easily
 - Deploy models directly to selected devices
