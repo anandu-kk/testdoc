@@ -28,4 +28,4 @@
 
 
 
-![VisionX single server architecture](../assets/Picture15.png)
+![VisionX Distributed server architecture](../assets/Picture15.png)
