@@ -21,5 +21,5 @@
   * [Custom Models](features/custom_model_version.md)
   * [Time Series Forecasting](features/time_series_forecasting.md)
   * [User Manual and Support](features/user_manual_and_support.md)
-* [Key Benefits](benefits/05-benefits.md)
+* [Industry Usecases](use-cases/06-use-cases.md)
 
