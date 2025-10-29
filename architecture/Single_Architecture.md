@@ -3,4 +3,4 @@
 - Suitable for small sites; handles real-time for ~6–8 streams reliably.
 - Video input from cameras or VMS systems.
 
-![Alt text](assets/Picture14.png)
+![Alt text](../assets/Picture14.png)
