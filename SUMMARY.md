@@ -10,7 +10,6 @@
   * [Heatmap Counting](models/heatmap-counting.md)
   * [Speed Estimation](models/speed-estimation.md)
   * [Danger Zone Detection](models/danger-zone-detection.md)
-  * [Object Counting](models/object-counting.md)
   * [Fall Detection](models/fall-detection.md)
   * [Fire Detection](models/fire-detection.md)
   * [Helmet and Safety Vest Detection](models/helmet-and-safety-vest-detection.md)
