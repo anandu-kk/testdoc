@@ -12,8 +12,3 @@ VisionX supports two deployment topologies:
 - Parallel inference across GPUs; Management Server orchestrates streams and aggregates analytics in MongoDB.
 - Designed for high-volume, high-performance scenarios.
 
-## Data Flow
-1. Video stream ingestion (camera or VMS)
-2. Inference engine processes frames at edge or inference server
-3. Analytics and events stored in MongoDB
-4. Dashboard and APIs present insights to users and third-party systems
