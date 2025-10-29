@@ -19,6 +19,4 @@
 * [Key Benefits](benefits/05-benefits.md)
 * [Use Cases](use-cases/06-use-cases.md)
 * [Dashboard and Analytics](dashboard-and-analytics/07-dashboard-and-analytics.md)
-* [Implementation Plan](implementation-plan/08-implementation-plan.md)
-* [Commercial Details](commercials/09-commercials.md)
-* [Terms and Conditions](terms-and-conditions/10-terms-and-conditions.md)
+
