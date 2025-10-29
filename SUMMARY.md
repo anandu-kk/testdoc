@@ -1,14 +1,12 @@
 # Summary
 
 * [Introduction](introduction/00-introduction.md)
-* [Executive Summary](executive-summary/01-executive-summary.md)
 * [Solution Overview](solution-overview/02-solution-overview.md)
-* [Architecture](architecture/03-architecture.md)
+* [Architecture](architecture/architecture_main.md)
   * [Distributed Server Architecture](architecture/Distributed_architecture.md)
   * [Distributed Server Architecture](architecture/Single_Architecture.md)
 * [Features](features/04-features-overview.md)
 * [AI Models](models/pre-trained-models.md)
-  * [Custom Models](models/custom-models.md)
   * [Heatmap Counting](models/heatmap-counting.md)
   * [Speed Estimation](models/speed-estimation.md)
   * [Danger Zone Detection](models/danger-zone-detection.md)
@@ -18,6 +16,7 @@
   * [Helmet and Safety Vest Detection](models/helmet-and-safety-vest-detection.md)
   * [Segmentation](models/segmentation.md)
   * [Analytics Model](models/analytics-model.md)
+  * [Custom Models](models/custom-models.md)
 * [Key Benefits](benefits/05-benefits.md)
 * [Use Cases](use-cases/06-use-cases.md)
 * [Dashboard and Analytics](dashboard-and-analytics/07-dashboard-and-analytics.md)
