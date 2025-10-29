@@ -4,6 +4,8 @@
 * [Executive Summary](executive-summary/01-executive-summary.md)
 * [Solution Overview](solution-overview/02-solution-overview.md)
 * [Architecture](architecture/03-architecture.md)
+  * [Distributed Server Architecture](architecture/Distributed_architecture.md)
+  * [Distributed Server Architecture](architecture/Single_Architecture.md)
 * [Features](features/04-features-overview.md)
 * [AI Models](models/pre-trained-models.md)
   * [Custom Models](models/custom-models.md)
