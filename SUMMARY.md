@@ -21,6 +21,4 @@
   * [Time Series Forecasting](features/time_series_forecasting.md)
   * [User Manual and Support](features/user_manual_and_support.md)
 * [Key Benefits](benefits/05-benefits.md)
-* [Use Cases](use-cases/06-use-cases.md)
-* [Dashboard and Analytics](dashboard-and-analytics/07-dashboard-and-analytics.md)
 
