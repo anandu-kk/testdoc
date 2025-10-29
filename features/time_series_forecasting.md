@@ -7,8 +7,11 @@ For example, the expected number of safety violations can be predicted using pas
 This enables proactive decision-making, resource planning, and timely interventions.
 
 ---
+
 ![](../assets/Picture18.png)
+
 ---
+
 ## Use Cases
 - Predict future incident or violation rates
 - Identify high-risk periods in operations
