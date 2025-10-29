@@ -8,9 +8,9 @@ Detects and visualizes concentration of moving objects (e.g., vehicles) in prede
 ---
 
 **Industry Use Cases:**
-- 🚗 **Smart Cities & Traffic Management:** Identify congestion hotspots; optimize signal timings.  
-- 🏢 **Retail & Shopping Malls:** Analyze foot traffic to optimize store layouts or staff allocation.  
-- 🏟️ **Event Management:** Monitor crowd density for safety and evacuation planning.  
-- 🏭 **Industrial Plants:** Track worker or equipment movement to improve workflow efficiency.  
+- **Smart Cities & Traffic Management:** Identify congestion hotspots; optimize signal timings.  
+- **Retail & Shopping Malls:** Analyze foot traffic to optimize store layouts or staff allocation.  
+- **Event Management:** Monitor crowd density for safety and evacuation planning.  
+- **Industrial Plants:** Track worker or equipment movement to improve workflow efficiency.  
 
 ---
