@@ -1,6 +1,7 @@
 # Solution Overview
 
 The **VisionX platform** combines advanced computer vision and edge-based AI to monitor activities in real time using standard CCTV feeds.  
+
 Designed for environments like **petrol pumps** and **logistics yards**, each camera requires only **~500MB of onboard memory**, making the deployment **scalable** and **cost-efficient**.
 
 It continuously processes video streams to detect predefined events such as **PPE compliance**, **vehicle delays**, and **unauthorized access**.  
