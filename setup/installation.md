@@ -1,15 +1,15 @@
-# 🧠 VisionX Platform Installation Guide
+# VisionX Platform Installation Guide
 
-## 📋 Prerequisites
+## Prerequisites
 
-### 🖥️ System Requirements
+### System Requirements
 - Ensure **at least 2GB+** of free disk space.
 - Ensure **CUDA drivers (for Nvidia GPUs)** or **MPS (for Apple Silicon)** are installed and configured.
 
-### 🔐 OpenVPN Access
+### OpenVPN Access
 - Install and configure **OpenVPN** to gain access to the **VisionX Backend**.
 
-### 🧩 Software Requirements
+### Software Requirements
 | Software | Version | Notes |
 |-----------|----------|-------|
 | **Anaconda** | Latest | For managing Python environments |
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚙️ Step-by-Step Installation
+## Step-by-Step Installation
 
 ### 1️⃣ Clone the Repositories
 
@@ -108,7 +108,7 @@ runCommand('npm start', './visionx-Interface');
 
 ---
 
-### ▶️ Steps to Run the Script
+### Steps to Run the Script
 
 1. Ensure all setup steps (backend & frontend) are **complete**.  
 2. Save the above script as **`start-visionx.js`** in the **root directory**.  
@@ -125,7 +125,7 @@ This will open **three terminal windows**:
 
 ---
 
-## 🧾 Additional Notes
+## Additional Notes
 
 - Ensure **all dependencies** are correctly installed in both frontend and backend directories.
 - Verify that **Python** and **Node.js** versions meet the specified requirements.
@@ -136,4 +136,4 @@ This will open **three terminal windows**:
 
 ---
 
-✅ By following this guide, you should be able to **successfully install and run the VisionX Platform**.
+By following this guide, you should be able to **successfully install and run the VisionX Platform**.
