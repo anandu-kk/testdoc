@@ -2,6 +2,8 @@
 
 * [Introduction](introduction/00-introduction.md)
 * [Solution Overview](solution-overview/02-solution-overview.md)
+* [Getting Started]()
+  * [Installation](setup/installation.md)
 * [Architecture](architecture/architecture_main.md)
   * [Single Server Architecture](architecture/Single_Architecture.md)
   * [Distributed Server Architecture](architecture/Distributed_architecture.md)
