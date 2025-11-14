@@ -23,7 +23,7 @@
 * [Custom Models](custommodel/custom_model_version.md)
 * [Model Training](model_training/model_train.md)
 * [Model Deployment](deploy/model_deployment.md)
-* [Time Series Forecasting](time series/time_series_forecasting.md)
-* [User Manual and Support](user manual/user_manual_and_support.md)
+* [Time Series Forecasting](time_series/time_series_forecasting.md)
+* [User Manual and Support](user_manual/user_manual_and_support.md)
 * [Industry Usecases](use-cases/06-use-cases.md)
 
