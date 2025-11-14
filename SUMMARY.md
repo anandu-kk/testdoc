@@ -14,7 +14,6 @@
   * [Fire Detection](models/fire-detection.md)
   * [Helmet and Safety Vest Detection](models/helmet-and-safety-vest-detection.md)
   * [Segmentation](models/segmentation.md)
-  * [Analytics Model](models/analytics-model.md)
   * [Custom Models](models/custom-models.md)
 * [Features](features/04-features-overview.md)
 * [Dashboard and Analytics](dashboard_and_analytics/dashboard_and_analytics.md)
