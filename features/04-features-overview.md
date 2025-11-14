@@ -22,7 +22,7 @@ VisionX offers pre-trained and custom-trained AI models for real-time visual ana
 ### Platform Features
 
 - **[Dashboard and Analytics](../dashboard_and_analytics/dashboard_and_analytics.md)** - Real-time visual analytics dashboard and insights
-- **[Device Management](../device_management/device_management.md/device_management.md)** - Deploy, configure, and manage edge devices
+- **[Device Management](../device_management/device_management.md)** - Deploy, configure, and manage edge devices
 - **[Custom Model Management](../custommodel/custom_model_version.md)** - Version control and deployment of custom-trained models
 - **[Time Series Forecasting](../time_series/time_series_forecasting.md)** - Predict future trends and incidents
 
