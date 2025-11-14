@@ -24,6 +24,13 @@ This ensures optimized performance, scalability, and centralized control across 
    - Open the device management page and select the option to add a new device.
 
 2. Enter device details  
+
+---
+
+![](../assets/newdevice.png)
+
+---
+
    - Fill in the required fields:  
      - **Name**  
      - **Type of Device**  

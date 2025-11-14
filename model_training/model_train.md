@@ -2,6 +2,12 @@
 
 This page describes how to start training a model using a selected architecture and dataset.
 
+---
+
+![](../assets/modeltrain1.png)
+
+---
+
 ## Train a model
 
 ### Prerequisites
@@ -11,12 +17,33 @@ This page describes how to start training a model using a selected architecture 
 
 ### Steps
 1. Select a model  
+
+---
+
+![](../assets/modeltrain2.png)
+
+---
+
    - Choose either **Pre-trained** or **Custom** from the model list.  
    - Click **Next**.
 2. Upload a dataset  
+
+---
+
+![](../assets/modeltrain3.png)
+
+---
+
    - Upload or select the dataset to use for training (ensure format and labels are correct).  
    - Click **Next**.
 3. Configure training and start  
+
+---
+
+![](../assets/modeltrain4.png)
+
+---
+
    - Set the number of epochs, batch size, and learning rate.  
    - Click **Start Training** to begin the job.
 
