@@ -37,9 +37,10 @@ If you require additional access, please contact your system administrator.
 | AI Detection             | ✔️   | ✔️    |
 | Event Logs               | ✔️   | ✔️    |
 | Analytics                | ✔️   | ✔️    |
-| Log Viewer               | ✔️   | ✔️    |
 | Device Management        | ❌   | ✔️    |
 | Model Management         | ❌   | ✔️    |
 | Model Deployment         | ❌   | ✔️    |
 | Train Custom Models      | ❌   | ✔️    |
+| Log Viewer               | ❌   | ✔️    |
+
 ---
