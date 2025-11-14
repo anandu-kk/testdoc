@@ -12,23 +12,17 @@ This page describes how to deploy models to production.
 ### Steps
 1. Select whether the model is **Pre-trained** or **Custom**, then click **Next**.  
 
----
-
 ![](../assets/modeldeploy1.png)
 
 ---
 
 2. Choose the model(s) from the list, then click **Next**.  
 
----
-
 ![](../assets/modeldeploy2.png)
 
 ---
 
 3. In the **Device Configuration** tab, select the devices where the model should run inference. Configure any device-specific settings if required.  
-
----
 
 ![](../assets/modeldeploy3.png)
 
