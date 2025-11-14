@@ -2,6 +2,12 @@
 
 VisionX helps you transform your existing CCTV footage into **real-time, actionable insights** using edge-based computer vision and AI.
 
+---
+
+![](../assets/firstpage.png)
+
+---
+
 ## What You Can Do
 Use VisionX to:
 - Detect safety violations automatically
