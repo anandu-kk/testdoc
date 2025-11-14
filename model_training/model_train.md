@@ -31,9 +31,9 @@ This page describes how to start training a model using a selected architecture 
 
 ---
 
-   - Upload or select the dataset to use for training (ensure format and labels are correct).  
+   - Upload the dataset to use for training (ensure format and labels are correct).  
    - Click **Next**.
-   
+
 3. Configure training and start  
 
 ![](../assets/modeltrain4.png)

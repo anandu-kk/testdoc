@@ -16,7 +16,7 @@ This page describes how to deploy models to production.
 
 ---
 
-2. Choose the model(s) from the list, then click **Next**.  
+2. Choose the model from the list, then click **Next**.  
 
 ![](../assets/modeldeploy2.png)
 

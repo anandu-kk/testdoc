@@ -13,14 +13,14 @@ Each role has its own dashboard and set of capabilities.
 Regular users have access to monitoring and analytics features focused on viewing live feeds and understanding detected events.
 
 **View full User Features:**  
-[User Dashboard](user_dashboard.md)
+[User Dashboard](regular_user.md)
 
 ## Admin Access
 
 Administrators have full control over the VisionX platform, including device setup, model training, and more.
 
 **View full Admin Features:**  
-[Admin Dashboard](admin_dashboard.md)
+[Admin Dashboard](admin.md)
 
 ## Choosing Your Role
 
@@ -37,10 +37,9 @@ If you require additional access, please contact your system administrator.
 | AI Detection             | ✔️   | ✔️    |
 | Event Logs               | ✔️   | ✔️    |
 | Analytics                | ✔️   | ✔️    |
+| Log Viewer               | ✔️   | ✔️    |
 | Device Management        | ❌   | ✔️    |
 | Model Management         | ❌   | ✔️    |
 | Model Deployment         | ❌   | ✔️    |
 | Train Custom Models      | ❌   | ✔️    |
-| Log Viewer               | ❌   | ✔️    |
-
 ---
