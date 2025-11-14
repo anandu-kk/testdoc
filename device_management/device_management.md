@@ -25,8 +25,6 @@ This ensures optimized performance, scalability, and centralized control across 
 
 2. Enter device details  
 
----
-
 ![](../assets/newdevice.png)
 
 ---

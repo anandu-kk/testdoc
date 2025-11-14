@@ -11,14 +11,12 @@ This page describes how to start training a model using a selected architecture 
 ## Train a model
 
 ### Prerequisites
-- A model available in the UI (Pre-trained or Custom).
+- A model available (Pre-trained or Custom).
 - A prepared dataset in a supported format and accessible for upload.
 - Sufficient compute resources and permissions to run training.
 
 ### Steps
 1. Select a model  
-
----
 
 ![](../assets/modeltrain2.png)
 
@@ -26,9 +24,8 @@ This page describes how to start training a model using a selected architecture 
 
    - Choose either **Pre-trained** or **Custom** from the model list.  
    - Click **Next**.
-2. Upload a dataset  
 
----
+2. Upload a dataset  
 
 ![](../assets/modeltrain3.png)
 
@@ -36,9 +33,8 @@ This page describes how to start training a model using a selected architecture 
 
    - Upload or select the dataset to use for training (ensure format and labels are correct).  
    - Click **Next**.
+   
 3. Configure training and start  
-
----
 
 ![](../assets/modeltrain4.png)
 
