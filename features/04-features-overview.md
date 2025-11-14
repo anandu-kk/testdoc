@@ -16,7 +16,6 @@ VisionX offers pre-trained and custom-trained AI models for real-time visual ana
     - **[Fire Detection](../models/fire-detection.md)** - Early fire and smoke detection
     - **[Helmet and Safety Vest Detection](../models/helmet-and-safety-vest-detection.md)** - PPE compliance monitoring
     - **[Segmentation](../models/segmentation.md)** - Advanced image segmentation for detailed scene understanding
-    - **[Analytics Model](../models/analytics-model.md)** - Comprehensive analytics and reporting model
 - **[Custom Models](../models/custom-models.md)** - Build and train custom ML models for specific use cases
 
 ### Platform Features
