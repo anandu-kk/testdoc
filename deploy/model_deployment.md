@@ -33,7 +33,7 @@ This page describes how to deploy models to production.
 5. View the deployment status
 
 ### Expected results
-- The model is pushed to the selected devices and begins serving inference.
+- The model runs inferencing on the selected devices.
 - The deployment status shows progress and final state (e.g., Success, Failed).
 
 ### Troubleshooting
