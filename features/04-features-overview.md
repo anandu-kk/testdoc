@@ -8,15 +8,15 @@ VisionX provides a comprehensive suite of AI-powered analytics and management ca
 
 VisionX offers pre-trained and custom-trained AI models for real-time visual analytics:
 
-- **[Pre-trained Models](../models/pre-trained-models.md)** - Out-of-the-box AI models for immediate deployment
-- **[Heatmap Counting](../models/heatmap-counting.md)** - Real-time crowd density analysis and people counting
-- **[Speed Estimation](../models/speed-estimation.md)** - Vehicle and object speed detection
-- **[Danger Zone Detection](../models/danger-zone-detection.md)** - Restricted area breach detection
-- **[Fall Detection](../models/fall-detection.md)** - Automatic fall incident detection and alerting
-- **[Fire Detection](../models/fire-detection.md)** - Early fire and smoke detection
-- **[Helmet and Safety Vest Detection](../models/helmet-and-safety-vest-detection.md)** - PPE compliance monitoring
-- **[Segmentation](../models/segmentation.md)** - Advanced image segmentation for detailed scene understanding
-- **[Analytics Model](../models/analytics-model.md)** - Comprehensive analytics and reporting model
+- **Pre-trained Models** - Out-of-the-box AI models for immediate deployment
+    - **[Heatmap Counting](../models/heatmap-counting.md)** - Real-time crowd density analysis and people counting
+    - **[Speed Estimation](../models/speed-estimation.md)** - Vehicle and object speed detection
+    - **[Danger Zone Detection](../models/danger-zone-detection.md)** - Restricted area breach detection
+    - **[Fall Detection](../models/fall-detection.md)** - Automatic fall incident detection and alerting
+    - **[Fire Detection](../models/fire-detection.md)** - Early fire and smoke detection
+    - **[Helmet and Safety Vest Detection](../models/helmet-and-safety-vest-detection.md)** - PPE compliance monitoring
+    - **[Segmentation](../models/segmentation.md)** - Advanced image segmentation for detailed scene understanding
+    - **[Analytics Model](../models/analytics-model.md)** - Comprehensive analytics and reporting model
 - **[Custom Models](../models/custom-models.md)** - Build and train custom ML models for specific use cases
 
 ### Platform Features
